@@ -1,0 +1,148 @@
+{
+  "resourceType": "CodeSystem",
+  "id": "position-codes",
+  "url": "https://github.gatech.edu/pnguyen45/football-fhir-extensions/position-codes.json",
+  "name": "FootballPositionCodes",
+  "status": "active",
+  "concept": [
+    {
+      "code": "QB",
+      "display": "Quarterback"
+    },
+    {
+      "code": "RB",
+      "display": "Running Back"
+    },
+    {
+      "code": "FB",
+      "display": "Fullback"
+    },
+    {
+      "code": "WR",
+      "display": "Wide Receiver"
+    },
+    {
+      "code": "TE",
+      "display": "Tight End"
+    },
+    {
+      "code": "OT",
+      "display": "Offensive Tackle"
+    },
+    {
+      "code": "OG",
+      "display": "Offensive Guard"
+    },
+    {
+      "code": "C",
+      "display": "Center"
+    },
+    {
+      "code": "K",
+      "display": "Kicker"
+    },
+    {
+      "code": "P",
+      "display": "Punter"
+    },
+    {
+      "code": "LS",
+      "display": "Long Snapper"
+    },
+    {
+      "code": "H",
+      "display": "Holder"
+    },
+    {
+      "code": "SLOT",
+      "display": "Slot Receiver"
+    },
+    {
+      "code": "FB2",
+      "display": "Hybrid Fullback"
+    },
+    
+    {
+      "code": "DE",
+      "display": "Defensive End"
+    },
+    {
+      "code": "DT",
+      "display": "Defensive Tackle"
+    },
+    {
+      "code": "NT",
+      "display": "Nose Tackle"
+    },
+    {
+      "code": "LB",
+      "display": "Linebacker"
+    },
+    {
+      "code": "OLB",
+      "display": "Outside Linebacker"
+    },
+    {
+      "code": "ILB",
+      "display": "Inside Linebacker"
+    },
+    {
+      "code": "CB",
+      "display": "Cornerback"
+    },
+    {
+      "code": "S",
+      "display": "Safety"
+    },
+    {
+      "code": "FS",
+      "display": "Free Safety"
+    },
+    {
+      "code": "SS",
+      "display": "Strong Safety"
+    },
+    {
+      "code": "DL",
+      "display": "Defensive Lineman"
+    },
+    {
+      "code": "DB",
+      "display": "Defensive Back"
+    },
+    {
+      "code": "DIME",
+      "display": "Dimeback"
+    },
+    {
+      "code": "NICKEL",
+      "display": "Nickelback"
+    },
+    {
+      "code": "EDGE",
+      "display": "Edge Rusher"
+    },
+    {
+      "code": "SAM",
+      "display": "Sam Linebacker"
+    },
+    {
+      "code": "MIKE",
+      "display": "Mike Linebacker"
+    },
+
+    {
+      "code": "KR",
+      "display": "Kick Returner"
+    },
+    {
+      "code": "PR",
+      "display": "Punt Returner"
+    },
+    {
+      "code": "CBR",
+      "display": "Cornerback (Return Specialist)"
+    }
+  ]
+}
+
