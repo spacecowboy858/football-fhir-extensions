@@ -1,0 +1,71 @@
+{
+  "resourceType": "StructureDefinition",
+  "id": "football-injury-extension",
+  "url": "https://github.gatech.edu/pnguyen45/football-fhir-extensions/football-injury-extension",
+  "name": "FootballInjuryExtension",
+  "status": "active",
+  "kind": "extension",
+  "type": "Extension",
+  "baseDefinition": "http://hl7.org/fhir/Extension",
+  "derivation": "specialization",
+  "contextType": "resource",
+  "context": ["Condition"],
+  "snapshot": {
+    "element": [
+      {
+        "id": "Extension",
+        "path": "Extension",
+        "short": "Football Injury Information",
+        "definition": "An extension to capture details about football injuries.",
+        "type": [
+          {
+            "code": "BackboneElement"
+          }
+        ],
+        "max": "*"
+      },
+      {
+        "id": "Extension.position",
+        "path": "Extension.extension[position]",
+        "short": "Position of Player",
+        "definition": "The position of the player involved in the injury.",
+        "type": [
+          {
+            "code": "CodeableConcept"
+          }
+        ],
+        "mustSupport": true,
+        "mapping": [
+          {
+            "identity": "position-codes",
+            "map": "position"
+          }
+        ]
+      },
+      {
+        "id": "Extension.formation",
+        "path": "Extension.extension[formation]",
+        "short": "Formation",
+        "definition": "The formation of the offensive or defensive unit at the time of the injury.",
+        "type": [
+          {
+            "code": "string"
+          }
+        ],
+        "mustSupport": true
+      },
+      {
+        "id": "Extension.playCall",
+        "path": "Extension.extension[playCall]",
+        "short": "Play Call",
+        "definition": "The specific play being executed when the injury occurred.",
+        "type": [
+          {
+            "code": "string"
+          }
+        ],
+        "mustSupport": true
+      }
+    ]
+  }
+}
