@@ -6,9 +6,6 @@ This repository contains FHIR (Fast Healthcare Interoperability Resources) exten
 
 - **Football Injury Extension**: A custom FHIR extension that includes fields for:
   - Position of player (e.g., quarterback, running back)
-  - Direction of play (e.g., left, right)
-  - Ball yard mark
-  - Down and distance
   - Formation
   - Play call
 
