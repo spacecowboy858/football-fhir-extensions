@@ -1,0 +1,2236 @@
+{
+  "resourceType": "CodeSystem",
+  "id": "formation-codes",
+  "url": "https://github.gatech.edu/pnguyen45/football-fhir-extensions/formation-codes",
+  "version": "1.0.0",
+  "name": "FormationCodes",
+  "title": "Formation Codes",
+  "status": "active",
+  "content": "complete",
+  "concept": [
+    {
+      "code": "gun_ace",
+      "display": "Gun Ace"
+    },
+    {
+      "code": "singleback_wing_pair",
+      "display": "Singleback Wing Pair"
+    },
+    {
+      "code": "singleback_trips_open",
+      "display": "Singleback Trips Open"
+    },
+    {
+      "code": "singleback_spread",
+      "display": "Singleback Spread"
+    },
+    {
+      "code": "singleback_deuce_close",
+      "display": "Singleback Deuce Close"
+    },
+    {
+      "code": "gun_y-trips_offset",
+      "display": "Gun Y-Trips Offset"
+    },
+    {
+      "code": "gun_y_off_trips",
+      "display": "Gun Y Off Trips"
+    },
+    {
+      "code": "gun_wing_tight_z",
+      "display": "Gun Wing Tight Z"
+    },
+    {
+      "code": "gun_wing_tight",
+      "display": "Gun Wing Tight"
+    },
+    {
+      "code": "gun_wing_slot_offset",
+      "display": "Gun Wing Slot Offset"
+    },
+    {
+      "code": "gun_wing_flex_offset",
+      "display": "Gun Wing Flex Offset"
+    },
+    {
+      "code": "gun_wide_offset",
+      "display": "Gun Wide Offset"
+    },
+    {
+      "code": "gun_trips_offset",
+      "display": "Gun Trips Offset"
+    },
+    {
+      "code": "gun_trio_unbalanced",
+      "display": "Gun Trio Unbalanced"
+    },
+    {
+      "code": "gun_trio_offset",
+      "display": "Gun Trio Offset"
+    },
+    {
+      "code": "gun_trey_y-flex_str",
+      "display": "Gun Trey Y-Flex Str"
+    },
+    {
+      "code": "gun_wing_stack",
+      "display": "Gun Wing Stack"
+    },
+    {
+      "code": "gun_tackle_over_trips",
+      "display": "Gun Tackle Over Trips"
+    },
+    {
+      "code": "gun_tight_y_off",
+      "display": "Gun Tight Y Off"
+    },
+    {
+      "code": "gun_ace_offset",
+      "display": "Gun Ace Offset"
+    },
+    {
+      "code": "gun_ace_slot_offset",
+      "display": "Gun Ace Slot Offset"
+    },
+    {
+      "code": "gun_deuce",
+      "display": "Gun Deuce"
+    },
+    {
+      "code": "gun_deuce_close",
+      "display": "Gun Deuce Close"
+    },
+    {
+      "code": "gun_doubles_offset_wk",
+      "display": "Gun Doubles Offset Wk"
+    },
+    {
+      "code": "gun_doubles_y_off",
+      "display": "Gun Doubles Y Off"
+    },
+    {
+      "code": "gun_doubles_hb_wk",
+      "display": "Gun Doubles HB Wk"
+    },
+    {
+      "code": "gun_flex_y_off",
+      "display": "Gun Flex Y Off"
+    },
+    {
+      "code": "gun_flex_y_off_wk",
+      "display": "Gun Flex Y Off Wk"
+    },
+    {
+      "code": "gun_normal_off_close_wk",
+      "display": "Gun Normal Off Close Wk"
+    },
+    {
+      "code": "gun_spread_offset",
+      "display": "Gun Spread Offset"
+    },
+    {
+      "code": "gun_spread_slots_close",
+      "display": "Gun Spread Slots Close"
+    },
+    {
+      "code": "gun_tackle_over",
+      "display": "Gun Tackle Over"
+    },
+    {
+      "code": "gun_doubles_y_off_wk",
+      "display": "Gun Doubles Y Off Wk"
+    },
+    {
+      "code": "gun_tight_offset_te",
+      "display": "Gun Tight Offset TE"
+    },
+    {
+      "code": "gun_tight_y_off_wk",
+      "display": "Gun Tight Y Off Wk"
+    },
+    {
+      "code": "gun_trey_y-flex_wk",
+      "display": "Gun Trey Y-Flex Wk"
+    },
+    {
+      "code": "near_pro",
+      "display": "Near Pro"
+    },
+    {
+      "code": "near_y_left_slot",
+      "display": "Near Y Left Slot"
+    },
+    {
+      "code": "singleback_doubles",
+      "display": "Singleback Doubles"
+    },
+    {
+      "code": "singleback_tight_y_off_flex",
+      "display": "Singleback Tight Y Off Flex"
+    },
+    {
+      "code": "singleback_y_trips",
+      "display": "Singleback Y Trips"
+    },
+    {
+      "code": "gun_dbls_y-flex_offset",
+      "display": "Gun Dbls Y-Flex Offset"
+    },
+    {
+      "code": "singleback_ace_overload",
+      "display": "Singleback Ace Overload"
+    },
+    {
+      "code": "singleback_doubles_y-slot_close",
+      "display": "Singleback Doubles Y-Slot Close"
+    },
+    {
+      "code": "4-3_under",
+      "display": "4-3 Under"
+    },
+    {
+      "code": "prevent_3_deep",
+      "display": "Prevent 3 Deep"
+    },
+    {
+      "code": "dime_3-2",
+      "display": "Dime 3-2"
+    },
+    {
+      "code": "nickel_3-3_over",
+      "display": "Nickel 3-3 Over"
+    },
+    {
+      "code": "nickel_3-3_mint",
+      "display": "Nickel 3-3 Mint"
+    },
+    {
+      "code": "dime_rush",
+      "display": "Dime Rush"
+    },
+    {
+      "code": "dime_2-3_odd",
+      "display": "Dime 2-3 Odd"
+    },
+    {
+      "code": "3-3-5_mint",
+      "display": "3-3-5 Mint"
+    },
+    {
+      "code": "3-2-6_odd",
+      "display": "3-2-6 Odd"
+    },
+    {
+      "code": "nickel_over",
+      "display": "Nickel Over"
+    },
+    {
+      "code": "4-2-5_under",
+      "display": "4-2-5 Under"
+    },
+    {
+      "code": "4-3_over",
+      "display": "4-3 Over"
+    },
+    {
+      "code": "nickel_3-3_will",
+      "display": "Nickel 3-3 Will"
+    },
+    {
+      "code": "nickel_2-4",
+      "display": "Nickel 2-4"
+    },
+    {
+      "code": "3-4_under",
+      "display": "3-4 Under"
+    },
+    {
+      "code": "gun_trips",
+      "display": "Gun Trips"
+    },
+    {
+      "code": "nickel_wide",
+      "display": "Nickel Wide"
+    },
+    {
+      "code": "nickel_3-3_cub",
+      "display": "Nickel 3-3 Cub"
+    },
+    {
+      "code": "i_form_pro",
+      "display": "I Form Pro"
+    },
+    {
+      "code": "3-3-5_3_high_odd",
+      "display": "3-3-5 3 High Odd"
+    },
+    {
+      "code": "3-4_over",
+      "display": "3-4 Over"
+    },
+    {
+      "code": "nickel_3-3",
+      "display": "Nickel 3-3"
+    },
+    {
+      "code": "3-4_bear",
+      "display": "3-4 Bear"
+    },
+    {
+      "code": "4-3_over_solid",
+      "display": "4-3 Over Solid"
+    },
+    {
+      "code": "nickel_double_mug",
+      "display": "Nickel Double Mug"
+    },
+    {
+      "code": "nickel_2-4_dbl_mug",
+      "display": "Nickel 2-4 Dbl Mug"
+    },
+    {
+      "code": "nickel_3-3_dbl_mug",
+      "display": "Nickel 3-3 Dbl Mug"
+    },
+    {
+      "code": "gun_y_off_trips_wk",
+      "display": "Gun Y Off Trips Wk"
+    },
+    {
+      "code": "singleback_ace",
+      "display": "Singleback Ace"
+    },
+    {
+      "code": "singleback_wing_pair_heavy",
+      "display": "Singleback Wing Pair Heavy"
+    },
+    {
+      "code": "singleback_wing_tight_left",
+      "display": "Singleback Wing Tight Left"
+    },
+    {
+      "code": "strong_h_wing",
+      "display": "Strong H Wing"
+    },
+    {
+      "code": "strong_z_close",
+      "display": "Strong Z Close"
+    },
+    {
+      "code": "singleback_wing_tight_u",
+      "display": "Singleback Wing Tight U"
+    },
+    {
+      "code": "singleback_wing_tight",
+      "display": "Singleback Wing Tight"
+    },
+    {
+      "code": "singleback_wing_slot_over",
+      "display": "Singleback Wing Slot Over"
+    },
+    {
+      "code": "singleback_wing_slot",
+      "display": "Singleback Wing Slot"
+    },
+    {
+      "code": "singleback_wing",
+      "display": "Singleback Wing"
+    },
+    {
+      "code": "i_form_tight",
+      "display": "I Form Tight"
+    },
+    {
+      "code": "singleback_wing_tight_nasty",
+      "display": "Singleback Wing Tight Nasty"
+    },
+    {
+      "code": "singleback_wing_tight_z",
+      "display": "Singleback Wing Tight Z"
+    },
+    {
+      "code": "singleback_wing_x_off_close",
+      "display": "Singleback Wing X Off Close"
+    },
+    {
+      "code": "i_form_slot",
+      "display": "I Form Slot"
+    },
+    {
+      "code": "i_form_z_close",
+      "display": "I Form Z Close"
+    },
+    {
+      "code": "nickel_2-4-5_odd",
+      "display": "Nickel 2-4-5 Odd"
+    },
+    {
+      "code": "dime_normal",
+      "display": "Dime Normal"
+    },
+    {
+      "code": "3-3-5_3_high",
+      "display": "3-3-5 3 High"
+    },
+    {
+      "code": "quarter_1-3-7",
+      "display": "Quarter 1-3-7"
+    },
+    {
+      "code": "quarter_normal",
+      "display": "Quarter Normal"
+    },
+    {
+      "code": "gun_trips_te",
+      "display": "Gun Trips TE"
+    },
+    {
+      "code": "gun_trey",
+      "display": "Gun Trey"
+    },
+    {
+      "code": "gun_spread_y-slot",
+      "display": "Gun Spread Y-Slot"
+    },
+    {
+      "code": "gun_normal_y_off",
+      "display": "Gun Normal Y Off"
+    },
+    {
+      "code": "gun_normal_flex_snug",
+      "display": "Gun Normal Flex Snug"
+    },
+    {
+      "code": "gun_doubles_flex",
+      "display": "Gun Doubles Flex"
+    },
+    {
+      "code": "gun_doubles",
+      "display": "Gun Doubles"
+    },
+    {
+      "code": "gun_cluster_hb_str",
+      "display": "Gun Cluster HB Str"
+    },
+    {
+      "code": "gun_spread",
+      "display": "Gun Spread"
+    },
+    {
+      "code": "46_bear",
+      "display": "46 Bear"
+    },
+    {
+      "code": "gun_split_slot",
+      "display": "Gun Split Slot"
+    },
+    {
+      "code": "strong_pro",
+      "display": "Strong Pro"
+    },
+    {
+      "code": "strong_i_pro",
+      "display": "Strong I Pro"
+    },
+    {
+      "code": "pistol_strong",
+      "display": "Pistol Strong"
+    },
+    {
+      "code": "gun_trips_y_slot",
+      "display": "Gun Trips Y Slot"
+    },
+    {
+      "code": "gun_trey_open_offset",
+      "display": "Gun Trey Open Offset"
+    },
+    {
+      "code": "gun_y_off_trips_pats",
+      "display": "Gun Y Off Trips Pats"
+    },
+    {
+      "code": "gun_y_trips_wk",
+      "display": "Gun Y Trips Wk"
+    },
+    {
+      "code": "gun_bunch",
+      "display": "Gun Bunch"
+    },
+    {
+      "code": "gun_y_off_x_close",
+      "display": "Gun Y Off X Close"
+    },
+    {
+      "code": "gun_early_rip_hb_str",
+      "display": "Gun Early Rip HB Str"
+    },
+    {
+      "code": "gun_early_hb_str",
+      "display": "Gun Early HB Str"
+    },
+    {
+      "code": "gun_ace_flip",
+      "display": "Gun Ace Flip"
+    },
+    {
+      "code": "gun_ace_wk",
+      "display": "Gun Ace Wk"
+    },
+    {
+      "code": "gun_ace_double_tight",
+      "display": "Gun Ace Double Tight"
+    },
+    {
+      "code": "gun_empty_base",
+      "display": "Gun Empty Base"
+    },
+    {
+      "code": "gun_green",
+      "display": "Gun Green"
+    },
+    {
+      "code": "gun_early",
+      "display": "Gun Early"
+    },
+    {
+      "code": "goal_line_6-2",
+      "display": "Goal Line 6-2"
+    },
+    {
+      "code": "gun_trips_hb_wk",
+      "display": "Gun Trips HB Wk"
+    },
+    {
+      "code": "pistol_spread",
+      "display": "Pistol Spread"
+    },
+    {
+      "code": "gun_ace_rip",
+      "display": "Gun Ace Rip"
+    },
+    {
+      "code": "gun_green_rip",
+      "display": "Gun Green Rip"
+    },
+    {
+      "code": "gun_split_y-flex",
+      "display": "Gun Split Y-Flex"
+    },
+    {
+      "code": "gun_spread_flex",
+      "display": "Gun Spread Flex"
+    },
+    {
+      "code": "gun_spread_y-flex",
+      "display": "Gun Spread Y-Flex"
+    },
+    {
+      "code": "gun_early_offset",
+      "display": "Gun Early Offset"
+    },
+    {
+      "code": "gun_wing_trips_wk",
+      "display": "Gun Wing Trips Wk"
+    },
+    {
+      "code": "singleback_ace_slot",
+      "display": "Singleback Ace Slot"
+    },
+    {
+      "code": "gun_split_flex",
+      "display": "Gun Split Flex"
+    },
+    {
+      "code": "gun_split_offset",
+      "display": "Gun Split Offset"
+    },
+    {
+      "code": "gun_trey_open",
+      "display": "Gun Trey Open"
+    },
+    {
+      "code": "special_teams_punt_block_44_even",
+      "display": "Special Teams Punt Block 44 Even"
+    },
+    {
+      "code": "gun_bunch_y-flex",
+      "display": "Gun Bunch Y-Flex"
+    },
+    {
+      "code": "strong_i_y_off",
+      "display": "Strong I Y Off"
+    },
+    {
+      "code": "singleback_trips",
+      "display": "Singleback Trips"
+    },
+    {
+      "code": "gun_green_rip_offset",
+      "display": "Gun Green Rip Offset"
+    },
+    {
+      "code": "weak_close_flex",
+      "display": "Weak Close Flex"
+    },
+    {
+      "code": "weak_i_close",
+      "display": "Weak I Close"
+    },
+    {
+      "code": "weak_slot_flex",
+      "display": "Weak Slot Flex"
+    },
+    {
+      "code": "weak_i_slot_close",
+      "display": "Weak I Slot Close"
+    },
+    {
+      "code": "weak_slot_close",
+      "display": "Weak Slot Close"
+    },
+    {
+      "code": "weak_h_u_deep",
+      "display": "Weak H U Deep"
+    },
+    {
+      "code": "i_form_close",
+      "display": "I Form Close"
+    },
+    {
+      "code": "i_form_close_flex",
+      "display": "I Form Close Flex"
+    },
+    {
+      "code": "i_form_slot_close",
+      "display": "I Form Slot Close"
+    },
+    {
+      "code": "i_form_slot_flex",
+      "display": "I Form Slot Flex"
+    },
+    {
+      "code": "i_form_slot_stack",
+      "display": "I Form Slot Stack"
+    },
+    {
+      "code": "pistol_weak_i_wing",
+      "display": "Pistol Weak I Wing"
+    },
+    {
+      "code": "weak_close",
+      "display": "Weak Close"
+    },
+    {
+      "code": "weak_h_close_off",
+      "display": "Weak H Close Off"
+    },
+    {
+      "code": "i_form_y_off",
+      "display": "I Form Y Off"
+    },
+    {
+      "code": "i_form_wing",
+      "display": "I Form Wing"
+    },
+    {
+      "code": "singleback_deuce",
+      "display": "Singleback Deuce"
+    },
+    {
+      "code": "pistol_trips_left_open",
+      "display": "Pistol Trips Left Open"
+    },
+    {
+      "code": "gun_wide_5wr",
+      "display": "Gun Wide 5WR"
+    },
+    {
+      "code": "gun_empty_base_trio",
+      "display": "Gun Empty Base Trio"
+    },
+    {
+      "code": "gun_bunch_quads_open",
+      "display": "Gun Bunch Quads Open"
+    },
+    {
+      "code": "gun_wide_bunch",
+      "display": "Gun Wide Bunch"
+    },
+    {
+      "code": "gun_wide_trips",
+      "display": "Gun Wide Trips"
+    },
+    {
+      "code": "gun_wide",
+      "display": "Gun Wide"
+    },
+    {
+      "code": "pistol_flexbone_slot",
+      "display": "Pistol Flexbone Slot"
+    },
+    {
+      "code": "gun_spread_y-slot_wk",
+      "display": "Gun Spread Y-Slot Wk"
+    },
+    {
+      "code": "gun_spread_y-flex_wk",
+      "display": "Gun Spread Y-Flex Wk"
+    },
+    {
+      "code": "singleback_wing_flex_close",
+      "display": "Singleback Wing Flex Close"
+    },
+    {
+      "code": "gun_tight_slots",
+      "display": "Gun Tight Slots"
+    },
+    {
+      "code": "gun_tight_slots_hb_wk",
+      "display": "Gun Tight Slots HB Wk"
+    },
+    {
+      "code": "gun_trey_4wr",
+      "display": "Gun Trey 4WR"
+    },
+    {
+      "code": "gun_trey_open_hb_str",
+      "display": "Gun Trey Open HB Str"
+    },
+    {
+      "code": "gun_trey_open_str",
+      "display": "Gun Trey Open Str"
+    },
+    {
+      "code": "gun_trio_4wr_str",
+      "display": "Gun Trio 4WR Str"
+    },
+    {
+      "code": "gun_trips_y_iso",
+      "display": "Gun Trips Y Iso"
+    },
+    {
+      "code": "gun_trips_y-flex",
+      "display": "Gun Trips Y-Flex"
+    },
+    {
+      "code": "gun_spread_flex_wk",
+      "display": "Gun Spread Flex Wk"
+    },
+    {
+      "code": "gun_empty_base_flex",
+      "display": "Gun Empty Base Flex"
+    },
+    {
+      "code": "gun_empty_quads",
+      "display": "Gun Empty Quads"
+    },
+    {
+      "code": "gun_empty_quads_hb",
+      "display": "Gun Empty Quads HB"
+    },
+    {
+      "code": "gun_empty_quads_trio",
+      "display": "Gun Empty Quads Trio"
+    },
+    {
+      "code": "gun_empty_spread",
+      "display": "Gun Empty Spread"
+    },
+    {
+      "code": "gun_empty_trey",
+      "display": "Gun Empty Trey"
+    },
+    {
+      "code": "gun_empty_trey_flex",
+      "display": "Gun Empty Trey Flex"
+    },
+    {
+      "code": "gun_spread_hb_wk",
+      "display": "Gun Spread HB Wk"
+    },
+    {
+      "code": "gun_empty_trio",
+      "display": "Gun Empty Trio"
+    },
+    {
+      "code": "gun_normal_y_off_wk",
+      "display": "Gun Normal Y Off Wk"
+    },
+    {
+      "code": "gun_spread_dbl_flex",
+      "display": "Gun Spread Dbl Flex"
+    },
+    {
+      "code": "gun_spread_dbl_flex_wk",
+      "display": "Gun Spread Dbl Flex Wk"
+    },
+    {
+      "code": "pistol_double_stack",
+      "display": "Pistol Double Stack"
+    },
+    {
+      "code": "pistol_doubles",
+      "display": "Pistol Doubles"
+    },
+    {
+      "code": "pistol_doubles_y_off",
+      "display": "Pistol Doubles Y Off"
+    },
+    {
+      "code": "pistol_flexbone_trips",
+      "display": "Pistol Flexbone Trips"
+    },
+    {
+      "code": "pistol_trips_open",
+      "display": "Pistol Trips Open"
+    },
+    {
+      "code": "pistol_y_off_trips",
+      "display": "Pistol Y Off Trips"
+    },
+    {
+      "code": "pistol_y_trips",
+      "display": "Pistol Y Trips"
+    },
+    {
+      "code": "singleback_doubles_y_off",
+      "display": "Singleback Doubles Y Off"
+    },
+    {
+      "code": "singleback_y_off_trio",
+      "display": "Singleback Y Off Trio"
+    },
+    {
+      "code": "pistol_wing_slot",
+      "display": "Pistol Wing Slot"
+    },
+    {
+      "code": "gun_y_trips_offset_wk",
+      "display": "Gun Y Trips Offset Wk"
+    },
+    {
+      "code": "gun_y_trio_offset_wk",
+      "display": "Gun Y Trio Offset Wk"
+    },
+    {
+      "code": "gun_wide_stack",
+      "display": "Gun Wide Stack"
+    },
+    {
+      "code": "gun_wide_y_trips_wk",
+      "display": "Gun Wide Y Trips Wk"
+    },
+    {
+      "code": "gun_wing_flex_offset_wk",
+      "display": "Gun Wing Flex Offset Wk"
+    },
+    {
+      "code": "gun_wing_flex_wk",
+      "display": "Gun Wing Flex Wk"
+    },
+    {
+      "code": "gun_wing_pair",
+      "display": "Gun Wing Pair"
+    },
+    {
+      "code": "gun_y_trips",
+      "display": "Gun Y Trips"
+    },
+    {
+      "code": "gun_wing_stack_wk",
+      "display": "Gun Wing Stack Wk"
+    },
+    {
+      "code": "gun_wing_trips",
+      "display": "Gun Wing Trips"
+    },
+    {
+      "code": "gun_y_off_trio_wk",
+      "display": "Gun Y Off Trio Wk"
+    },
+    {
+      "code": "gun_wing_slot_wk",
+      "display": "Gun Wing Slot Wk"
+    },
+    {
+      "code": "singleback_wing_flex",
+      "display": "Singleback Wing Flex"
+    },
+    {
+      "code": "flexbone_close",
+      "display": "Flexbone Close"
+    },
+    {
+      "code": "flexbone_normal",
+      "display": "Flexbone Normal"
+    },
+    {
+      "code": "flexbone_trio_right",
+      "display": "Flexbone Trio Right"
+    },
+    {
+      "code": "gun_5wr",
+      "display": "Gun 5WR"
+    },
+    {
+      "code": "gun_5wr_flex_trey",
+      "display": "Gun 5WR Flex Trey"
+    },
+    {
+      "code": "gun_5wr_trey",
+      "display": "Gun 5WR Trey"
+    },
+    {
+      "code": "gun_5wr_trio",
+      "display": "Gun 5WR Trio"
+    },
+    {
+      "code": "gun_double_stack",
+      "display": "Gun Double Stack"
+    },
+    {
+      "code": "gun_doubles_flex_wk",
+      "display": "Gun Doubles Flex Wk"
+    },
+    {
+      "code": "gun_doubles_offset",
+      "display": "Gun Doubles Offset"
+    },
+    {
+      "code": "gun_5wr_trips",
+      "display": "Gun 5WR Trips"
+    },
+    {
+      "code": "gun_empty_y-flex",
+      "display": "Gun Empty Y-Flex"
+    },
+    {
+      "code": "strong_close",
+      "display": "Strong Close"
+    },
+    {
+      "code": "full_house_wide",
+      "display": "Full House Wide"
+    },
+    {
+      "code": "gun_split_slot_open",
+      "display": "Gun Split Slot Open"
+    },
+    {
+      "code": "gun_split_y_off",
+      "display": "Gun Split Y Off"
+    },
+    {
+      "code": "split_backs_pro",
+      "display": "Split Backs Pro"
+    },
+    {
+      "code": "flexbone_tackle_over",
+      "display": "Flexbone Tackle Over"
+    },
+    {
+      "code": "special_teams_field_goal_block_left",
+      "display": "Special Teams Field Goal Block Left"
+    },
+    {
+      "code": "special_teams_field_goal_block_right",
+      "display": "Special Teams Field Goal Block Right"
+    },
+    {
+      "code": "gun_wide_doubles_wk",
+      "display": "Gun Wide Doubles Wk"
+    },
+    {
+      "code": "gun_bunch_str_offset",
+      "display": "Gun Bunch Str Offset"
+    },
+    {
+      "code": "gun_tight_open",
+      "display": "Gun Tight Open"
+    },
+    {
+      "code": "gun_tight_flex",
+      "display": "Gun Tight Flex"
+    },
+    {
+      "code": "gun_tight_doubles",
+      "display": "Gun Tight Doubles"
+    },
+    {
+      "code": "gun_flanker_close",
+      "display": "Gun Flanker Close"
+    },
+    {
+      "code": "gun_wing_tight_nasty",
+      "display": "Gun Wing Tight Nasty"
+    },
+    {
+      "code": "gun_tight",
+      "display": "Gun Tight"
+    },
+    {
+      "code": "gun_tight_slot_open",
+      "display": "Gun Tight Slot Open"
+    },
+    {
+      "code": "pistol_east_tight",
+      "display": "Pistol East Tight"
+    },
+    {
+      "code": "pistol_deuce_close",
+      "display": "Pistol Deuce Close"
+    },
+    {
+      "code": "pistol_tight_slots",
+      "display": "Pistol Tight Slots"
+    },
+    {
+      "code": "singleback_ace_close",
+      "display": "Singleback Ace Close"
+    },
+    {
+      "code": "singleback_ace_double_wing",
+      "display": "Singleback Ace Double Wing"
+    },
+    {
+      "code": "singleback_tight_flex",
+      "display": "Singleback Tight Flex"
+    },
+    {
+      "code": "split_backs_flex_close",
+      "display": "Split Backs Flex Close"
+    },
+    {
+      "code": "pistol_deuce",
+      "display": "Pistol Deuce"
+    },
+    {
+      "code": "gun_empty_trey_stack",
+      "display": "Gun Empty Trey Stack"
+    },
+    {
+      "code": "singleback_doubles_off_close",
+      "display": "Singleback Doubles Off Close"
+    },
+    {
+      "code": "singleback_double_y_off_close",
+      "display": "Singleback Double Y Off Close"
+    },
+    {
+      "code": "gun_stack_y_off",
+      "display": "Gun Stack Y Off"
+    },
+    {
+      "code": "gun_doubles_hip",
+      "display": "Gun Doubles Hip"
+    },
+    {
+      "code": "gun_bunch_offset",
+      "display": "Gun Bunch Offset"
+    },
+    {
+      "code": "gun_stack_hb_wk",
+      "display": "Gun Stack HB Wk"
+    },
+    {
+      "code": "gun_stack_y_off_wk",
+      "display": "Gun Stack Y Off Wk"
+    },
+    {
+      "code": "far_tight_slot",
+      "display": "Far Tight Slot"
+    },
+    {
+      "code": "singleback_tight_y_off",
+      "display": "Singleback Tight Y Off"
+    },
+    {
+      "code": "pistol_tight_y_off_flex",
+      "display": "Pistol Tight Y Off Flex"
+    },
+    {
+      "code": "singleback_doubles_north",
+      "display": "Singleback Doubles North"
+    },
+    {
+      "code": "singleback_tight_doubles",
+      "display": "Singleback Tight Doubles"
+    },
+    {
+      "code": "wildcat_jumbo_z_wk",
+      "display": "Wildcat Jumbo Z Wk"
+    },
+    {
+      "code": "wildcat_unbalanced",
+      "display": "Wildcat Unbalanced"
+    },
+    {
+      "code": "pistol_strong_i_wing",
+      "display": "Pistol Strong I Wing"
+    },
+    {
+      "code": "strong_i_wing",
+      "display": "Strong I Wing"
+    },
+    {
+      "code": "wildcat_trips_over",
+      "display": "Wildcat Trips Over"
+    },
+    {
+      "code": "wildcat_u_off_trips",
+      "display": "Wildcat U Off Trips"
+    },
+    {
+      "code": "wildcat_slot_flex",
+      "display": "Wildcat Slot Flex"
+    },
+    {
+      "code": "singleback_doubles_flex",
+      "display": "Singleback Doubles Flex"
+    },
+    {
+      "code": "gun_bunch_wide",
+      "display": "Gun Bunch Wide"
+    },
+    {
+      "code": "gun_empty_bunch_y_flex",
+      "display": "Gun Empty Bunch Y Flex"
+    },
+    {
+      "code": "gun_bunch_wide_nasty",
+      "display": "Gun Bunch Wide Nasty"
+    },
+    {
+      "code": "singleback_doubles_y_open",
+      "display": "Singleback Doubles Y Open"
+    },
+    {
+      "code": "pistol_trips",
+      "display": "Pistol Trips"
+    },
+    {
+      "code": "gun_empty_y_slot",
+      "display": "Gun Empty Y Slot"
+    },
+    {
+      "code": "weak_i_slot",
+      "display": "Weak I Slot"
+    },
+    {
+      "code": "strong_slot",
+      "display": "Strong Slot"
+    },
+    {
+      "code": "singleback_trio",
+      "display": "Singleback Trio"
+    },
+    {
+      "code": "pistol_wing_flex",
+      "display": "Pistol Wing Flex"
+    },
+    {
+      "code": "dime_2-3",
+      "display": "Dime 2-3"
+    },
+    {
+      "code": "gun_wing_hb_wk_close",
+      "display": "Gun Wing HB Wk Close"
+    },
+    {
+      "code": "gun_tackle_over_cluster",
+      "display": "Gun Tackle Over Cluster"
+    },
+    {
+      "code": "gun_trio_hb_wk",
+      "display": "Gun Trio HB Wk"
+    },
+    {
+      "code": "gun_empty_bunch_open",
+      "display": "Gun Empty Bunch Open"
+    },
+    {
+      "code": "singleback_bunch_ace",
+      "display": "Singleback Bunch Ace"
+    },
+    {
+      "code": "gun_bunch_open",
+      "display": "Gun Bunch Open"
+    },
+    {
+      "code": "gun_bunch_str_nasty",
+      "display": "Gun Bunch Str Nasty"
+    },
+    {
+      "code": "gun_empty_bunch_quads",
+      "display": "Gun Empty Bunch Quads"
+    },
+    {
+      "code": "gun_bunch_quads",
+      "display": "Gun Bunch Quads"
+    },
+    {
+      "code": "big_nickel_over_g",
+      "display": "Big Nickel Over G"
+    },
+    {
+      "code": "4-2-5_over_g",
+      "display": "4-2-5 Over G"
+    },
+    {
+      "code": "gun_split_close_pro",
+      "display": "Gun Split Close Pro"
+    },
+    {
+      "code": "gun_empty_chips_quads",
+      "display": "Gun Empty Chips Quads"
+    },
+    {
+      "code": "gun_normal_y_off_close",
+      "display": "Gun Normal Y Off Close"
+    },
+    {
+      "code": "gun_bunch_te",
+      "display": "Gun Bunch TE"
+    },
+    {
+      "code": "singleback_bunch_x_nasty",
+      "display": "Singleback Bunch X Nasty"
+    },
+    {
+      "code": "gun_trips_te_flex",
+      "display": "Gun Trips TE Flex"
+    },
+    {
+      "code": "strong_slot_flex",
+      "display": "Strong Slot Flex"
+    },
+    {
+      "code": "far_slot",
+      "display": "Far Slot"
+    },
+    {
+      "code": "singleback_y_off_trips",
+      "display": "Singleback Y Off Trips"
+    },
+    {
+      "code": "gun_trey_offset",
+      "display": "Gun Trey Offset"
+    },
+    {
+      "code": "gun_bunch_x_nasty",
+      "display": "Gun Bunch X Nasty"
+    },
+    {
+      "code": "gun_bunch_y_nasty",
+      "display": "Gun Bunch Y Nasty"
+    },
+    {
+      "code": "gun_trips_slot_close",
+      "display": "Gun Trips Slot Close"
+    },
+    {
+      "code": "gun_trips_slots_close",
+      "display": "Gun Trips Slots Close"
+    },
+    {
+      "code": "gun_split_close",
+      "display": "Gun Split Close"
+    },
+    {
+      "code": "gun_bunch_str_wide",
+      "display": "Gun Bunch Str Wide"
+    },
+    {
+      "code": "pistol_empty_tight_stack",
+      "display": "Pistol Empty Tight Stack"
+    },
+    {
+      "code": "singleback_bunch",
+      "display": "Singleback Bunch"
+    },
+    {
+      "code": "full_house_normal",
+      "display": "Full House Normal"
+    },
+    {
+      "code": "gun_cluster",
+      "display": "Gun Cluster"
+    },
+    {
+      "code": "pistol_full_house_base",
+      "display": "Pistol Full House Base"
+    },
+    {
+      "code": "pistol_full_house_te",
+      "display": "Pistol Full House TE"
+    },
+    {
+      "code": "gun_doubles_y-flex",
+      "display": "Gun Doubles Y-Flex"
+    },
+    {
+      "code": "gun_doubles_z_close_wk",
+      "display": "Gun Doubles Z Close Wk"
+    },
+    {
+      "code": "gun_normal_y_off_close_wk",
+      "display": "Gun Normal Y Off Close Wk"
+    },
+    {
+      "code": "gun_y-trips_offset_wk",
+      "display": "Gun Y-Trips Offset Wk"
+    },
+    {
+      "code": "gun_flex_trey",
+      "display": "Gun Flex Trey"
+    },
+    {
+      "code": "3-3-5_penny",
+      "display": "3-3-5 Penny"
+    },
+    {
+      "code": "weak_slot_open",
+      "display": "Weak Slot Open"
+    },
+    {
+      "code": "flexbone_tight",
+      "display": "Flexbone Tight"
+    },
+    {
+      "code": "pistol_bunch_x_nasty",
+      "display": "Pistol Bunch X Nasty"
+    },
+    {
+      "code": "gun_empty_strong_slots",
+      "display": "Gun Empty Strong Slots"
+    },
+    {
+      "code": "pistol_ace",
+      "display": "Pistol Ace"
+    },
+    {
+      "code": "gun_stack_y-flex",
+      "display": "Gun Stack Y-Flex"
+    },
+    {
+      "code": "pistol_bunch",
+      "display": "Pistol Bunch"
+    },
+    {
+      "code": "singleback_u_off",
+      "display": "Singleback U Off"
+    },
+    {
+      "code": "flexbone_east",
+      "display": "Flexbone East"
+    },
+    {
+      "code": "gun_doubles_off_close",
+      "display": "Gun Doubles Off Close"
+    },
+    {
+      "code": "gun_empty_chips",
+      "display": "Gun Empty Chips"
+    },
+    {
+      "code": "gun_split_pro_near",
+      "display": "Gun Split Pro Near"
+    },
+    {
+      "code": "gun_empty_steeler",
+      "display": "Gun Empty Steeler"
+    },
+    {
+      "code": "gun_spread_dbl_flex",
+      "display": "Gun Spread DBL Flex"
+    },
+    {
+      "code": "pistol_weak_slot_open",
+      "display": "Pistol Weak Slot Open"
+    },
+    {
+      "code": "pistol_full_house_close",
+      "display": "Pistol Full House Close"
+    },
+    {
+      "code": "gun_split_twins",
+      "display": "Gun Split Twins"
+    },
+    {
+      "code": "wildcat_pro",
+      "display": "Wildcat Pro"
+    },
+    {
+      "code": "pistol_open_flex",
+      "display": "Pistol Open Flex"
+    },
+    {
+      "code": "weak_z_close",
+      "display": "Weak Z Close"
+    },
+    {
+      "code": "weak_wing",
+      "display": "Weak Wing"
+    },
+    {
+      "code": "gun_bunch_quads_offset",
+      "display": "Gun Bunch Quads Offset"
+    },
+    {
+      "code": "full_house_normal_wide",
+      "display": "Full House Normal Wide"
+    },
+    {
+      "code": "full_house_tight",
+      "display": "Full House Tight"
+    },
+    {
+      "code": "pistol_full_house",
+      "display": "Pistol Full House"
+    },
+    {
+      "code": "pistol_full_house_tight",
+      "display": "Pistol Full House Tight"
+    },
+    {
+      "code": "pistol_full_house_twins_over",
+      "display": "Pistol Full House Twins Over"
+    },
+    {
+      "code": "pistol_weak_slot_over",
+      "display": "Pistol Weak Slot Over"
+    },
+    {
+      "code": "pistol_weak_y_off_close",
+      "display": "Pistol Weak Y Off Close"
+    },
+    {
+      "code": "pistol_weak_slot",
+      "display": "Pistol Weak Slot"
+    },
+    {
+      "code": "gun_split_slot_offset",
+      "display": "Gun Split Slot Offset"
+    },
+    {
+      "code": "singleback_east",
+      "display": "Singleback East"
+    },
+    {
+      "code": "pistol_wing_flex_close",
+      "display": "Pistol Wing Flex Close"
+    },
+    {
+      "code": "strong_i_tight",
+      "display": "Strong I Tight"
+    },
+    {
+      "code": "strong_y_off_close",
+      "display": "Strong Y Off Close"
+    },
+    {
+      "code": "strong_h_tight_close",
+      "display": "Strong H Tight Close"
+    },
+    {
+      "code": "strong_close_flex",
+      "display": "Strong Close Flex"
+    },
+    {
+      "code": "strong_h_slot",
+      "display": "Strong H Slot"
+    },
+    {
+      "code": "strong_wing",
+      "display": "Strong Wing"
+    },
+    {
+      "code": "gun_slot_right",
+      "display": "Gun Slot Right"
+    },
+    {
+      "code": "gun_slot_left_wk",
+      "display": "Gun Slot Left Wk"
+    },
+    {
+      "code": "gun_normal_offset_wk",
+      "display": "Gun Normal Offset Wk"
+    },
+    {
+      "code": "gun_u_off_trips",
+      "display": "Gun U Off Trips"
+    },
+    {
+      "code": "gun_slot_right_wk",
+      "display": "Gun Slot Right Wk"
+    },
+    {
+      "code": "gun_slot_right_wk_over",
+      "display": "Gun Slot Right Wk Over"
+    },
+    {
+      "code": "gun_split_pro_far",
+      "display": "Gun Split Pro Far"
+    },
+    {
+      "code": "gun_wide_slot_left_wk",
+      "display": "Gun Wide Slot Left Wk"
+    },
+    {
+      "code": "gun_wide_slot_right_wk",
+      "display": "Gun Wide Slot Right Wk"
+    },
+    {
+      "code": "gun_wide_slot_right",
+      "display": "Gun Wide Slot Right"
+    },
+    {
+      "code": "pistol_doubles_flex_hip",
+      "display": "Pistol Doubles Flex Hip"
+    },
+    {
+      "code": "gun_y_off_trips_nasty",
+      "display": "Gun Y Off Trips Nasty"
+    },
+    {
+      "code": "gun_normal_flex_wing_wk",
+      "display": "Gun Normal Flex Wing Wk"
+    },
+    {
+      "code": "gun_flex_y_off_close",
+      "display": "Gun Flex Y Off Close"
+    },
+    {
+      "code": "gun_doubles_y_off_nasty",
+      "display": "Gun Doubles Y Off Nasty"
+    },
+    {
+      "code": "gun_bunch_hb_str",
+      "display": "Gun Bunch HB Str"
+    },
+    {
+      "code": "gun_box_y_off",
+      "display": "Gun Box Y Off"
+    },
+    {
+      "code": "gun_deuce_twins_over",
+      "display": "Gun Deuce Twins Over"
+    },
+    {
+      "code": "gun_doubles_off_close_wk",
+      "display": "Gun Doubles Off Close Wk"
+    },
+    {
+      "code": "3-4_even",
+      "display": "3-4 Even"
+    },
+    {
+      "code": "dime_sugar_weak",
+      "display": "Dime Sugar Weak"
+    },
+    {
+      "code": "quarter_over_load",
+      "display": "Quarter Over Load"
+    },
+    {
+      "code": "46_bear_under",
+      "display": "46 Bear Under"
+    },
+    {
+      "code": "4-4_split",
+      "display": "4-4 Split"
+    },
+    {
+      "code": "5-2_normal",
+      "display": "5-2 Normal"
+    },
+    {
+      "code": "46_normal",
+      "display": "46 Normal"
+    },
+    {
+      "code": "dime_2-3_sam",
+      "display": "Dime 2-3 Sam"
+    },
+    {
+      "code": "dime_2-3_will",
+      "display": "Dime 2-3 Will"
+    },
+    {
+      "code": "4-3_over_wide",
+      "display": "4-3 Over Wide"
+    },
+    {
+      "code": "3-4_over_ed",
+      "display": "3-4 Over Ed"
+    },
+    {
+      "code": "3-4_cub",
+      "display": "3-4 Cub"
+    },
+    {
+      "code": "3-4_odd",
+      "display": "3-4 Odd"
+    },
+    {
+      "code": "4-3_even_6-1",
+      "display": "4-3 Even 6-1"
+    },
+    {
+      "code": "3-4_over_stack",
+      "display": "3-4 Over Stack"
+    },
+    {
+      "code": "4-3_over_walk",
+      "display": "4-3 Over Walk"
+    },
+    {
+      "code": "nickel_triple",
+      "display": "Nickel Triple"
+    },
+    {
+      "code": "dime_1-4",
+      "display": "Dime 1-4"
+    },
+    {
+      "code": "dollar_3-2_mug",
+      "display": "Dollar 3-2 Mug"
+    },
+    {
+      "code": "nickel_3-3_odd",
+      "display": "Nickel 3-3 Odd"
+    },
+    {
+      "code": "3-2-6_mug",
+      "display": "3-2-6 Mug"
+    },
+    {
+      "code": "4-3_odd",
+      "display": "4-3 Odd"
+    },
+    {
+      "code": "nickel_3-3_stack",
+      "display": "Nickel 3-3 Stack"
+    },
+    {
+      "code": "3-3-5_split",
+      "display": "3-3-5 Split"
+    },
+    {
+      "code": "3-3-5_stack",
+      "display": "3-3-5 Stack"
+    },
+    {
+      "code": "pistol_bunch_te",
+      "display": "Pistol Bunch TE"
+    },
+    {
+      "code": "singleback_bunch_te",
+      "display": "Singleback Bunch TE"
+    },
+    {
+      "code": "gun_trey_y-flex",
+      "display": "Gun Trey Y-Flex"
+    },
+    {
+      "code": "singleback_y_trips_te_slot",
+      "display": "Singleback Y Trips TE Slot"
+    },
+    {
+      "code": "singleback_trips_y_slot",
+      "display": "Singleback Trips Y Slot"
+    },
+    {
+      "code": "gun_empty_hb_wide",
+      "display": "Gun Empty HB Wide"
+    },
+    {
+      "code": "pistol_wing",
+      "display": "Pistol Wing"
+    },
+    {
+      "code": "gun_wing_hb_wk",
+      "display": "Gun Wing HB Wk"
+    },
+    {
+      "code": "gun_trips_te_offset",
+      "display": "Gun Trips TE Offset"
+    },
+    {
+      "code": "gun_box_offset_wk",
+      "display": "Gun Box Offset Wk"
+    },
+    {
+      "code": "gun_trio_offset_wk",
+      "display": "Gun Trio Offset Wk"
+    },
+    {
+      "code": "gun_trio",
+      "display": "Gun Trio"
+    },
+    {
+      "code": "gun_trio_y-flex",
+      "display": "Gun Trio Y-Flex"
+    },
+    {
+      "code": "pistol_full_diamond",
+      "display": "Pistol Full Diamond"
+    },
+    {
+      "code": "gun_slot_left_flex",
+      "display": "Gun Slot Left Flex"
+    },
+    {
+      "code": "gun_slot_left",
+      "display": "Gun Slot Left"
+    },
+    {
+      "code": "pistol_u_off_close",
+      "display": "Pistol U Off Close"
+    },
+    {
+      "code": "gun_empty_bunch",
+      "display": "Gun Empty Bunch"
+    },
+    {
+      "code": "singleback_u_off_close",
+      "display": "Singleback U Off Close"
+    },
+    {
+      "code": "gun_doubles_flex_wing",
+      "display": "Gun Doubles Flex Wing"
+    },
+    {
+      "code": "gun_wide_slot_left",
+      "display": "Gun Wide Slot Left"
+    },
+    {
+      "code": "pistol_u_off",
+      "display": "Pistol U Off"
+    },
+    {
+      "code": "singleback_wing_stack",
+      "display": "Singleback Wing Stack"
+    },
+    {
+      "code": "gun_open_flex_wk",
+      "display": "Gun Open Flex Wk"
+    },
+    {
+      "code": "gun_split",
+      "display": "Gun Split"
+    },
+    {
+      "code": "split_t_tight",
+      "display": "Split T Tight"
+    },
+    {
+      "code": "gun_pack_trips",
+      "display": "Gun Pack Trips"
+    },
+    {
+      "code": "i_form_h_pro",
+      "display": "I Form H Pro"
+    },
+    {
+      "code": "pistol_weak_i",
+      "display": "Pistol Weak I"
+    },
+    {
+      "code": "i_form_slot_open",
+      "display": "I Form Slot Open"
+    },
+    {
+      "code": "gun_open_flex",
+      "display": "Gun Open Flex"
+    },
+    {
+      "code": "gun_empty_chips_tight",
+      "display": "Gun Empty Chips Tight"
+    },
+    {
+      "code": "gun_trips_y_slot_str",
+      "display": "Gun Trips Y Slot Str"
+    },
+    {
+      "code": "gun_empty_chips_nasty",
+      "display": "Gun Empty Chips Nasty"
+    },
+    {
+      "code": "gun_u_off_trips_wk",
+      "display": "Gun U Off Trips Wk"
+    },
+    {
+      "code": "power_i_strong",
+      "display": "Power I Strong"
+    },
+    {
+      "code": "gun_split_flanker_close",
+      "display": "Gun Split Flanker Close"
+    },
+    {
+      "code": "strong_i_close",
+      "display": "Strong I Close"
+    },
+    {
+      "code": "i_form_y_off_close",
+      "display": "I Form Y Off Close"
+    },
+    {
+      "code": "singleback_wing_close",
+      "display": "Singleback Wing Close"
+    },
+    {
+      "code": "pistol_u_off_trips",
+      "display": "Pistol U Off Trips"
+    },
+    {
+      "code": "pistol_u_off_stack",
+      "display": "Pistol U Off Stack"
+    },
+    {
+      "code": "singleback_y_off_trips_left",
+      "display": "Singleback Y Off Trips Left"
+    },
+    {
+      "code": "gun_empty_trips_speed",
+      "display": "Gun Empty Trips Speed"
+    },
+    {
+      "code": "gun_box",
+      "display": "Gun Box"
+    },
+    {
+      "code": "gun_empty_bunch_wide",
+      "display": "Gun Empty Bunch Wide"
+    },
+    {
+      "code": "pistol_empty_trips",
+      "display": "Pistol Empty Trips"
+    },
+    {
+      "code": "gun_bunch_open_offset",
+      "display": "Gun Bunch Open Offset"
+    },
+    {
+      "code": "gun_bunch_open_te",
+      "display": "Gun Bunch Open TE"
+    },
+    {
+      "code": "pistol_bunch_open",
+      "display": "Pistol Bunch Open"
+    },
+    {
+      "code": "gun_split_wr_backfield",
+      "display": "Gun Split WR Backfield"
+    },
+    {
+      "code": "pistol_empty_y_tight",
+      "display": "Pistol Empty Y Tight"
+    },
+    {
+      "code": "gun_wing",
+      "display": "Gun Wing"
+    },
+    {
+      "code": "gun_ace_slot",
+      "display": "Gun Ace Slot"
+    },
+    {
+      "code": "singleback_tight_slots",
+      "display": "Singleback Tight Slots"
+    },
+    {
+      "code": "pistol_wing_close",
+      "display": "Pistol Wing Close"
+    },
+    {
+      "code": "gun_duo_over_wk",
+      "display": "Gun Duo Over Wk"
+    },
+    {
+      "code": "far_pro",
+      "display": "Far Pro"
+    },
+    {
+      "code": "gun_split_tight",
+      "display": "Gun Split Tight"
+    },
+    {
+      "code": "pistol_strong_slot",
+      "display": "Pistol Strong Slot"
+    },
+    {
+      "code": "wishbone_tight",
+      "display": "Wishbone Tight"
+    },
+    {
+      "code": "gun_empty_sketch_stack",
+      "display": "Gun Empty Sketch Stack"
+    },
+    {
+      "code": "pistol_strong_slot_open",
+      "display": "Pistol Strong Slot Open"
+    },
+    {
+      "code": "gun_slot_f_wing",
+      "display": "Gun Slot F Wing"
+    },
+    {
+      "code": "gun_doubles_z_close",
+      "display": "Gun Doubles Z Close"
+    },
+    {
+      "code": "gun_duo",
+      "display": "Gun Duo"
+    },
+    {
+      "code": "gun_bunch_quads_close",
+      "display": "Gun Bunch Quads Close"
+    },
+    {
+      "code": "gun_tight_base_flex",
+      "display": "Gun Tight Base Flex"
+    },
+    {
+      "code": "gun_slot_wr_backfield",
+      "display": "Gun Slot WR Backfield"
+    },
+    {
+      "code": "pistol_wing_tight_z",
+      "display": "Pistol Wing Tight Z"
+    },
+    {
+      "code": "pistol_ace_heavy_overload",
+      "display": "Pistol Ace Heavy Overload"
+    },
+    {
+      "code": "gun_u_off_stack",
+      "display": "Gun U Off Stack"
+    },
+    {
+      "code": "gun_doubles_flex_y_off_close",
+      "display": "Gun Doubles Flex Y Off Close"
+    },
+    {
+      "code": "gun_east_x_over",
+      "display": "Gun East X Over"
+    },
+    {
+      "code": "pistol_strong_tight",
+      "display": "Pistol Strong Tight"
+    },
+    {
+      "code": "pistol_strong_trips_over",
+      "display": "Pistol Strong Trips Over"
+    },
+    {
+      "code": "gun_trips_y_over",
+      "display": "Gun Trips Y Over"
+    },
+    {
+      "code": "special_teams_field_goal",
+      "display": "Special Teams Field Goal"
+    },
+    {
+      "code": "pistol_philly",
+      "display": "Pistol Philly"
+    },
+    {
+      "code": "special_teams_punt",
+      "display": "Special Teams Punt"
+    },
+    {
+      "code": "gun_trips_te_offset_wk",
+      "display": "Gun Trips TE Offset Wk"
+    },
+    {
+      "code": "special_teams_clock_management",
+      "display": "Special Teams Clock Management"
+    },
+    {
+      "code": "near_close_flex",
+      "display": "Near Close Flex"
+    },
+    {
+      "code": "strong_i_jumbo",
+      "display": "Strong I Jumbo"
+    },
+    {
+      "code": "strong_jumbo",
+      "display": "Strong Jumbo"
+    },
+    {
+      "code": "maryland_i_heavy",
+      "display": "Maryland I Heavy"
+    },
+    {
+      "code": "goal_line_normal",
+      "display": "Goal Line Normal"
+    },
+    {
+      "code": "i_form_hulk",
+      "display": "I Form Hulk"
+    },
+    {
+      "code": "near_close",
+      "display": "Near Close"
+    },
+    {
+      "code": "near_jumbo",
+      "display": "Near Jumbo"
+    },
+    {
+      "code": "special_teams_field_goal_return",
+      "display": "Special Teams Field Goal Return"
+    },
+    {
+      "code": "gun_duo_over",
+      "display": "Gun Duo Over"
+    },
+    {
+      "code": "gun_monster",
+      "display": "Gun Monster"
+    },
+    {
+      "code": "gun_ninja",
+      "display": "Gun Ninja"
+    },
+    {
+      "code": "goal_line_heavy",
+      "display": "Goal Line Heavy"
+    },
+    {
+      "code": "gun_slot_offset",
+      "display": "Gun Slot Offset"
+    },
+    {
+      "code": "flexbone_u_off",
+      "display": "Flexbone U Off"
+    },
+    {
+      "code": "gun_doubles_flex_pats",
+      "display": "Gun Doubles Flex Pats"
+    },
+    {
+      "code": "pistol_ace_slot",
+      "display": "Pistol Ace Slot"
+    },
+    {
+      "code": "gun_tight_y_off_flex",
+      "display": "Gun Tight Y Off Flex"
+    },
+    {
+      "code": "strong_i_y_open_flex",
+      "display": "Strong I Y Open Flex"
+    },
+    {
+      "code": "gun_doubles_y-slot_wk",
+      "display": "Gun Doubles Y-Slot Wk"
+    },
+    {
+      "code": "pistol_doubles_y_off_stack",
+      "display": "Pistol Doubles Y Off Stack"
+    },
+    {
+      "code": "goal_line_5-3",
+      "display": "Goal Line 5-3"
+    },
+    {
+      "code": "gun_trips_x_nasty",
+      "display": "Gun Trips X Nasty"
+    },
+    {
+      "code": "hail_mary_hail_mary",
+      "display": "Hail Mary Hail Mary"
+    },
+    {
+      "code": "pistol_train",
+      "display": "Pistol Train"
+    },
+    {
+      "code": "power_i_tight",
+      "display": "Power I Tight"
+    },
+    {
+      "code": "strong_i_twins_over",
+      "display": "Strong I Twins Over"
+    },
+    {
+      "code": "strong_h_close_off",
+      "display": "Strong H Close Off"
+    },
+    {
+      "code": "pistol_wing_slot_over",
+      "display": "Pistol Wing Slot Over"
+    },
+    {
+      "code": "pistol_strong_slot_close",
+      "display": "Pistol Strong Slot Close"
+    },
+    {
+      "code": "pistol_strong_y_off_close",
+      "display": "Pistol Strong Y Off Close"
+    },
+    {
+      "code": "pistol_ace_double_wing",
+      "display": "Pistol Ace Double Wing"
+    },
+    {
+      "code": "singleback_u_off_stack",
+      "display": "Singleback U Off Stack"
+    },
+    {
+      "code": "singleback_u_off_trio",
+      "display": "Singleback U Off Trio"
+    },
+    {
+      "code": "singleback_u_off_trips",
+      "display": "Singleback U Off Trips"
+    },
+    {
+      "code": "singleback_ace_dbl_wing",
+      "display": "Singleback Ace Dbl Wing"
+    },
+    {
+      "code": "i_form_wing_over",
+      "display": "I Form Wing Over"
+    },
+    {
+      "code": "gun_split_twins_offset",
+      "display": "Gun Split Twins Offset"
+    },
+    {
+      "code": "pistol_open_flex_close",
+      "display": "Pistol Open Flex Close"
+    },
+    {
+      "code": "singleback_doubles_z_close",
+      "display": "Singleback Doubles Z Close"
+    },
+    {
+      "code": "gun_slot_left_stack",
+      "display": "Gun Slot Left Stack"
+    },
+    {
+      "code": "gun_box_hb_strong",
+      "display": "Gun Box HB Strong"
+    },
+    {
+      "code": "gun_tight_slot_flip",
+      "display": "Gun Tight Slot Flip"
+    },
+    {
+      "code": "weak_h_wing",
+      "display": "Weak H Wing"
+    },
+    {
+      "code": "gun_split_pro_offset_wk",
+      "display": "Gun Split Pro Offset Wk"
+    },
+    {
+      "code": "gun_wing_slot_over",
+      "display": "Gun Wing Slot Over"
+    },
+    {
+      "code": "gun_go_go_slot_open",
+      "display": "Gun Go Go Slot Open"
+    },
+    {
+      "code": "gun_duo_slot_open",
+      "display": "Gun Duo Slot Open"
+    },
+    {
+      "code": "gun_split_twins_stack",
+      "display": "Gun Split Twins Stack"
+    },
+    {
+      "code": "gun_split_y_offset",
+      "display": "Gun Split Y Offset"
+    },
+    {
+      "code": "gun_f_twins_over",
+      "display": "Gun F Twins Over"
+    },
+    {
+      "code": "gun_wing_x_off",
+      "display": "Gun Wing X Off"
+    },
+    {
+      "code": "singleback_wing_x_off",
+      "display": "Singleback Wing X Off"
+    },
+    {
+      "code": "singleback_y_trips_x_off",
+      "display": "Singleback Y Trips X Off"
+    },
+    {
+      "code": "pistol_trips_over_y_off",
+      "display": "Pistol Trips Over Y Off"
+    },
+    {
+      "code": "wildcat_normal",
+      "display": "Wildcat Normal"
+    },
+    {
+      "code": "gun_heavy_raven",
+      "display": "Gun Heavy Raven"
+    },
+    {
+      "code": "gun_heavy_saint",
+      "display": "Gun Heavy Saint"
+    },
+    {
+      "code": "gun_deebo_package",
+      "display": "Gun Deebo Package"
+    },
+    {
+      "code": "gun_split_wing_nasty",
+      "display": "Gun Split Wing Nasty"
+    },
+    {
+      "code": "gun_split_z_plus",
+      "display": "Gun Split Z Plus"
+    },
+    {
+      "code": "gun_heavy_tiger",
+      "display": "Gun Heavy Tiger"
+    },
+    {
+      "code": "gun_heavy",
+      "display": "Gun Heavy"
+    },
+    {
+      "code": "gun_normal_flex_close",
+      "display": "Gun Normal Flex Close"
+    },
+    {
+      "code": "wildcat_jumbo_trio",
+      "display": "Wildcat Jumbo Trio"
+    },
+    {
+      "code": "gun_empty_triple_stack",
+      "display": "Gun Empty Triple Stack"
+    },
+    {
+      "code": "special_teams_punt_tight",
+      "display": "Special Teams Punt Tight"
+    },
+    {
+      "code": "special_teams_shield_punt",
+      "display": "Special Teams Shield Punt"
+    },
+    {
+      "code": "special_teams_punt_safe",
+      "display": "Special Teams Punt Safe"
+    },
+    {
+      "code": "special_teams_qb_kneel",
+      "display": "Special Teams QB Kneel"
+    },
+    {
+      "code": "special_teams_punt_return_33_even",
+      "display": "Special Teams Punt Return 33 Even"
+    }
+  ]
+}
